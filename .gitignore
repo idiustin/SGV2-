@@ -1,0 +1,9 @@
+bin/
+obj/
+*.map
+*.suo
+Steamgifts++.js
+temp.js
+temp2.js
+SGPP/SteamgiftsPlusV2.js
+/SGPP/SteamgiftsPlusV2.js

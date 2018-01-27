@@ -1,13 +1,4 @@
-SGV2-
+SGPP- [![Build Status](https://travis-ci.org/leomoty/SGPP.svg?branch=master)](https://travis-ci.org/leomoty/SGPP)
 =====
 
-This is a beta version of a userscript to be used with steamsocial.com
-
-The current functionality is:
-
-- Gridview Mode
-- Scrolling Sidebar
-- Fixed Navbar
-- Shorten comments
-
-Any bugs please let us know.
+This is the future SGPP plugin for Steamgifts.com
